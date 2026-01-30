@@ -20,11 +20,15 @@
 
 ## 📱 Tangkapan Layar
 
-| Dashboard | Tambah Tabungan | Riwayat |
-|:---:|:---:|:---:|
-| <img src="assets/images/avatar.png" width="100" /> | *Formulir input yang bersih* | *List riwayat per bulan* |
+### Mobile View
 
-*(Catatan: Screenshot dapat ditambahkan menual di folder assets/screenshots)*
+| Dashboard | Formulir Menabung | Profil & Pengaturan |
+|:---:|:---:|:---:|
+| <img src="assets/images/iPhone-13-PRO-localhost.png" width="200" /> | <img src="assets/images/iPhone-13-PRO-localhost%20(1).png" width="200" /> | <img src="assets/images/iPhone-13-PRO-localhost%20(5).png" width="200" /> |
+
+### Desktop / Web View
+
+<img src="assets/images/Macbook-Air-localhost.png" width="600" />
 
 ## 🛠️ Teknologi yang Digunakan
 
